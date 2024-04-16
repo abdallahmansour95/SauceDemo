@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="7" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-16T14:28:17 TRT" name="Default suite" finished-at="2024-04-16T14:28:49 TRT" duration-ms="31990">
+    <groups>
+    </groups>
+    <test started-at="2024-04-16T14:28:17 TRT" name="Default test" finished-at="2024-04-16T14:28:49 TRT" duration-ms="31990">
+      <class name="saucePackage.SauceTestCases">
+        <test-method is-config="true" signature="mySetup()[pri:0, instance:saucePackage.SauceTestCases@4b41e4dd]" started-at="2024-04-16T14:28:17 TRT" name="mySetup" finished-at="2024-04-16T14:28:20 TRT" duration-ms="3211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySetup -->
+        <test-method signature="myLogin()[pri:1, instance:saucePackage.SauceTestCases@4b41e4dd]" started-at="2024-04-16T14:28:20 TRT" name="myLogin" finished-at="2024-04-16T14:28:28 TRT" duration-ms="7873" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myLogin -->
+        <test-method signature="FilterItem()[pri:5, instance:saucePackage.SauceTestCases@4b41e4dd]" started-at="2024-04-16T14:28:28 TRT" name="FilterItem" finished-at="2024-04-16T14:28:31 TRT" duration-ms="2232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FilterItem -->
+        <test-method signature="addFirstandLastItem()[pri:6, instance:saucePackage.SauceTestCases@4b41e4dd]" started-at="2024-04-16T14:28:31 TRT" name="addFirstandLastItem" finished-at="2024-04-16T14:28:37 TRT" duration-ms="6412" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addFirstandLastItem -->
+        <test-method signature="checkOutProcessTwo()[pri:7, instance:saucePackage.SauceTestCases@4b41e4dd]" started-at="2024-04-16T14:28:37 TRT" name="checkOutProcessTwo" finished-at="2024-04-16T14:28:49 TRT" duration-ms="12161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkOutProcessTwo -->
+      </class> <!-- saucePackage.SauceTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
